@@ -1,0 +1,46 @@
+1. HTML CSS
+
+HTML- Hyper Text Markup Language
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    
+</body>
+</html>
+=============================
+Tag
+Atributes
+==============================
+
+CSS- Cascading Style Sheets
+
+Coloring 
+Style
+==========================
+2. History of HTML and CSS
+
+Google - History of HTML and CSS
+yourhtmlsource.com
+en.wikipedia.org/wiki/Cascading_style_Sheets
+CSS3 dia js ar onek kaj kora possible.
+=======================================
+03. Making Computer Work Ready
+
+Code Editor Name
+1. Notepad
+2. Notepad++
+3. Sublime Text Editor
+4. Cofee Cup HTML Editor
+5. Brackets etc.....
+6. vs code
+
+###File Extension theory.txt>>> txt extension.
+
+
+
